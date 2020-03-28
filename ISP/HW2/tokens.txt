@@ -1,5 +1,0 @@
-ex1 = "HvXLwu2gCWGwsAuWSF5xrrH+dfK2ZIyRMPmfzQgvlDI="
-ex2 = "uJApZacaiGi0e1bs+8xlTlkoMqGh9q8lzHte+3SyFNQ="
-ex3 = "T1CHF04yf6PSCuKpqjngP5K2HF/7VcerNlhfezx2Y34="
-ex4a = "wsyrhYG6DCtTpFA1avtl8Vbabcd60yy0ZrLBCv2Sw5E="
-ex4b = "CoWIuTmQdOtwMT573foCQywsP6Ck5xtO9IHBojkJdk4="
